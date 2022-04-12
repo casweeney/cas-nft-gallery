@@ -1,2 +1,2 @@
-# faith-arts-nft
-Faith Artworks is an NFT collection for people that love artworks.
+# Cas-NFT-Arts
+Building an NFT art gallery.
