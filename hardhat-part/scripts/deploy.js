@@ -5,15 +5,15 @@ const { METADATA_URL } = require("../constants");
 async function main() {
     const metadataUrl = METADATA_URL;
 
-    const faithArtworksContract = await ethers.getContractFactory("FaithArtworks");
+    const casArtworksContract = await ethers.getContractFactory("CasArtworks");
 
-    const deployedFaithArtworksContract = await faithArtworksContract.deploy(
+    const deployedCasArtworksContract = await casArtworksContract.deploy(
         metadataUrl
     );
 
     console.log(
-        "Faith Artworks Contract Address:",
-        deployedFaithArtworksContract.address
+        "Casweeney Artworks Contract Address:",
+        deployedCasArtworksContract.address
     );
 }
 

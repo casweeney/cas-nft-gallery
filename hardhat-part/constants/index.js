@@ -1,4 +1,4 @@
 // URL to extract Metadata for a Crypto Dev NFT
-const METADATA_URL = "https://faithartsnft.vercel.app/api/";
+const METADATA_URL = "https://cas-nft-gallery.vercel.app/api/";
 
 module.exports = { METADATA_URL };
