@@ -1,4 +1,4 @@
-import "../css/customstyle.css";
+import "../css/customStyling.css";
 import Layout from "../components/Layout";
 import { AppWrapper } from "../context/state";
 
