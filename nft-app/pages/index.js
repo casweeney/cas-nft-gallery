@@ -89,7 +89,7 @@ export default function Home() {
         </div>
 
         <div className="main-right">
-          <img className="image" alt="Faith Artworks" src="./image03.jpg" />
+          <img className="image" alt="Cas NFT Gallery" src="./image03.jpg" />
         </div>
       </div>
 
